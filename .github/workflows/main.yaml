@@ -14,33 +14,12 @@ jobs:
     steps:
       - name: checkout
         uses: actions/checkout@v1
-      - name: Setup NodeJs 13.x
-        uses: actions/setup-node@v1
-        with:
-          node-version: '13.x'
-      - name: cache
-        uses: actions/cache@v1
-        with:
-          path: node_modules
-          key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
-      - name: Install dependencies
-        run: npm install
-      - name: Generate README file
-        run: node index.js
-      - name: Commit and push if README changed
-        run: |-
-          remote_repo="https://${GITHUB_ACTOR}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
-          git config http.sslVerify false
-          git config user.name "Automated Publisher"
-          git config user.email "actions@users.noreply.github.com"
-          git remote add publisher "${remote_repo}"
-          git show-ref # useful for debugging
-
-          git lfs install
-
-          git checkout ${BRANCH_NAME}
-          git add -A
-          timestamp=$(date -u)
-          git commit -m "Automated publish: ${timestamp} ${GITHUB_SHA}" || exit 0
-          git pull --rebase publisher ${BRANCH_NAME}
-          git push publisher ${BRANCH_NAME}
+        run: |
+          date > generated.txt
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          node index.js
+          npm install
+          git add .
+          git commit -m "generated"
+          git push
