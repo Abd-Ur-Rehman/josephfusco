@@ -12,14 +12,26 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-node@v1
+      - name: Git checkout
+        uses: actions/checkout@v2
+
+      - name: Use Node 12.x
+        uses: actions/setup-node@v1
         with:
-          node-version: '12.18.3'
-      - run: npm install
-      - run: node build_readme.js
-      - run: git config user.name github-actions
-      - run: git config user.email github-actions@github.com
-      - run: git add .
-      - run: git commit -m "generated"
-      - run: git push
+          node-version: '12'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build README
+        run: node build_readme.js
+        env:
+          API_KEY: ${{ secrets.OPEN_WEATHER_MAP_KEY }}
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add .
+          git commit -m "generated"
+          git push
