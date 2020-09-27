@@ -17,9 +17,8 @@ jobs:
         with:
           node-version: '12'
       - run: npm install
-      - run: node index.js
       - run: |
-          date > generated.txt
+          node index.js
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
