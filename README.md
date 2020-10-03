@@ -9,28 +9,28 @@
 <h3 id="rochester_ny">📍 <a href="https://en.wikipedia.org/wiki/Rochester,_New_York">Rochester, New York</a></h3>
 
 <p>
-  <img src=https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;120568873_340270227423735_3992708135177720764_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;103&amp;_nc_ohc&#x3D;uca95friR9sAX-FuDOD&amp;oh&#x3D;546bce01d0b49f4fe1330db1c53781ff&amp;oe&#x3D;5FA084D6 alt="" height="200">
-  <img src=https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;120554713_718755538721754_8394069802104406447_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;106&amp;_nc_ohc&#x3D;5-bqm-aPhYIAX_csExg&amp;oh&#x3D;70f8291adcb096bbbe56b64fa1c21724&amp;oe&#x3D;5FA0E9CE alt="" height="200">
-  <img src=https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;120349966_764285580801668_1462075627668834598_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;108&amp;_nc_ohc&#x3D;jrpVV2dqiTIAX-bu-p8&amp;oh&#x3D;47b7b21cd817bbe1d699307d67b6ea3f&amp;oe&#x3D;5FA2FBAD alt="" height="200">
+  <img src=https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;120568873_340270227423735_3992708135177720764_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;103&amp;_nc_ohc&#x3D;uca95friR9sAX-9hHc9&amp;oh&#x3D;cd568d5a96b66b57e6782834c26f7282&amp;oe&#x3D;5FA084D6 alt="" height="200">
+  <img src=https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;120554713_718755538721754_8394069802104406447_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;106&amp;_nc_ohc&#x3D;B9s5XfC7OVIAX_FTLX7&amp;oh&#x3D;96a6ddaccf394083026fc1cad680fd8c&amp;oe&#x3D;5FA0E9CE alt="" height="200">
+  <img src=https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;120349966_764285580801668_1462075627668834598_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;108&amp;_nc_ohc&#x3D;jrpVV2dqiTIAX_PPfe3&amp;oh&#x3D;80736212a66dedd809ba3d6a77f00fdf&amp;oe&#x3D;5FA2FBAD alt="" height="200">
 </p>
 
 <p>
   Above are the last 3 pictures posted by <a href="https://www.instagram.com/rochesterny/">@rochesterny</a>.<br/>
-  Currently, the weather is: <strong>47℉, overcast clouds</strong><br/>
+  Currently, the weather is: <strong>45℉, light rain</strong><br/>
   Today, the sun rises at <strong>07:10 AM</strong> and sets at <strong>06:47 PM</strong>.
 </p>
 
 <h3 id="tampa_fl">📍 <a href="https://en.wikipedia.org/wiki/Tampa,_Florida">Tampa, Florida</a></h3>
 
 <p>
-  <img src=https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;120497055_618778642142022_3907351443033520085_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;106&amp;_nc_ohc&#x3D;ARIlet9R7_gAX8Ga3Pb&amp;oh&#x3D;fc04f72316335f0223fbfb0445f02cb0&amp;oe&#x3D;5FA1FA28 alt="" height="200">
-  <img src=https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;120453664_319363329350365_1935447199056509331_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;101&amp;_nc_ohc&#x3D;Gn3he_rngS4AX_ylrgL&amp;oh&#x3D;de7c5c393531995543f3aa1ef655807d&amp;oe&#x3D;5FA09F6B alt="" height="200">
-  <img src=https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;120078990_204845777644486_791618313131799094_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;110&amp;_nc_ohc&#x3D;nUB2BHPQt8sAX--VgzF&amp;oh&#x3D;248e1274b27083b0487457afb10dba66&amp;oe&#x3D;5FA10E6F alt="" height="200">
+  <img src=https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;120497055_618778642142022_3907351443033520085_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;106&amp;_nc_ohc&#x3D;ARIlet9R7_gAX8YJxsy&amp;oh&#x3D;a5beb57ecbd7a6d2f379ebfb5ca76361&amp;oe&#x3D;5FA1FA28 alt="" height="200">
+  <img src=https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;120453664_319363329350365_1935447199056509331_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;101&amp;_nc_ohc&#x3D;Gn3he_rngS4AX9V_nj4&amp;oh&#x3D;5de31f646a9309831f119bf0290ad6b3&amp;oe&#x3D;5FA09F6B alt="" height="200">
+  <img src=https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;120078990_204845777644486_791618313131799094_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;110&amp;_nc_ohc&#x3D;nUB2BHPQt8sAX8xYWry&amp;oh&#x3D;299e505e8f0979759f1f10e41e3f91d6&amp;oe&#x3D;5FA10E6F alt="" height="200">
 </p>
 
 <p>
   Above are the last 3 pictures posted by <a href="https://www.instagram.com/visittampabay/">@visittampabay</a>.<br/>
-  Currently, the weather is: <strong>70℉, overcast clouds</strong><br/>
+  Currently, the weather is: <strong>69℉, overcast clouds</strong><br/>
   Today, the sun rises at <strong>07:23 AM</strong> and sets at <strong>07:13 PM</strong>.
 </p>
 
@@ -69,7 +69,7 @@
   <small
     >This README file is generated every 3 hours.
     <br />
-    Last refresh: <strong>Saturday, October 3, 2:22 AM EDT</strong>
+    Last refresh: <strong>Saturday, October 3, 5:19 AM EDT</strong>
     <br />
   </small>
 </p>
