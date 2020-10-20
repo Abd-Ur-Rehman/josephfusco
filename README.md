@@ -9,9 +9,9 @@
 <h3 id="rochester_ny">📍 <a href="https://en.wikipedia.org/wiki/Rochester,_New_York">Rochester, New York</a></h3>
 
 <p>
-  <img src=https:&#x2F;&#x2F;scontent-iad3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;121738211_378703196618308_6260824069496471139_n.jpg?_nc_ht&#x3D;scontent-iad3-1.cdninstagram.com&amp;_nc_cat&#x3D;104&amp;_nc_ohc&#x3D;Y2f6xE3abzEAX-N50sP&amp;_nc_tp&#x3D;25&amp;oh&#x3D;380a75f4801ce5cbaa540b35b489f7f4&amp;oe&#x3D;5FB631E1 alt="" height="200">
-  <img src=https:&#x2F;&#x2F;scontent-iad3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;121777630_726646501537337_2178881856787150561_n.jpg?_nc_ht&#x3D;scontent-iad3-1.cdninstagram.com&amp;_nc_cat&#x3D;105&amp;_nc_ohc&#x3D;z9k1NWeG_aEAX_5uq-Q&amp;_nc_tp&#x3D;24&amp;oh&#x3D;fb5c000a2f769f3f01725078128e9333&amp;oe&#x3D;5FB8681F alt="" height="200">
-  <img src=https:&#x2F;&#x2F;scontent-iad3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;121664554_191125152531911_5420181026549878991_n.jpg?_nc_ht&#x3D;scontent-iad3-1.cdninstagram.com&amp;_nc_cat&#x3D;111&amp;_nc_ohc&#x3D;qsPnXSzSamkAX8a4i0T&amp;_nc_tp&#x3D;25&amp;oh&#x3D;d2cf74b425488ea9c3e2b41b73e256bf&amp;oe&#x3D;5FB90F1F alt="" height="200">
+  <img src=https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;121738211_378703196618308_6260824069496471139_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;104&amp;_nc_ohc&#x3D;Y2f6xE3abzEAX8E0Vsl&amp;_nc_tp&#x3D;25&amp;oh&#x3D;ea73fa9ca9baba2e3ab2c739d0853ace&amp;oe&#x3D;5FB631E1 alt="" height="200">
+  <img src=https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;121777630_726646501537337_2178881856787150561_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;105&amp;_nc_ohc&#x3D;z9k1NWeG_aEAX8z4gTU&amp;_nc_tp&#x3D;24&amp;oh&#x3D;43196dabb0bb5d6a1f4e94994eb21e40&amp;oe&#x3D;5FB8681F alt="" height="200">
+  <img src=https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;121664554_191125152531911_5420181026549878991_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;111&amp;_nc_ohc&#x3D;qsPnXSzSamkAX8pFVQS&amp;_nc_tp&#x3D;25&amp;oh&#x3D;4fd0a00379c047ad7a2816675ee0965c&amp;oe&#x3D;5FB90F1F alt="" height="200">
 </p>
 
 <p>
@@ -23,9 +23,9 @@
 <h3 id="tampa_fl">📍 <a href="https://en.wikipedia.org/wiki/Tampa,_Florida">Tampa, Florida</a></h3>
 
 <p>
-  <img src=https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;121269296_205606687739153_8342238848923984092_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;105&amp;_nc_ohc&#x3D;NHhPEAvzXTwAX-JnTvz&amp;_nc_tp&#x3D;25&amp;oh&#x3D;c08a2b84a4e29231edb409a2186f4284&amp;oe&#x3D;5F90BE5A alt="" height="200">
-  <img src=https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;121278292_2681478505502876_6504845727848454794_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;108&amp;_nc_ohc&#x3D;9gVEEGIE2F4AX_k8qWb&amp;_nc_tp&#x3D;25&amp;oh&#x3D;429c766fb26010be86ee78bc947816ef&amp;oe&#x3D;5FB69358 alt="" height="200">
-  <img src=https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;120497055_618778642142022_3907351443033520085_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;106&amp;_nc_ohc&#x3D;GkFhig_uxxsAX9SKeZw&amp;_nc_tp&#x3D;25&amp;oh&#x3D;6427cc73f2d7f1ce9c2409105f0ed53d&amp;oe&#x3D;5FB9B528 alt="" height="200">
+  <img src=https:&#x2F;&#x2F;scontent-yyz1-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;121269296_205606687739153_8342238848923984092_n.jpg?_nc_ht&#x3D;scontent-yyz1-1.cdninstagram.com&amp;_nc_cat&#x3D;105&amp;_nc_ohc&#x3D;NHhPEAvzXTwAX80ao_6&amp;_nc_tp&#x3D;25&amp;oh&#x3D;d05a088618b6c6e77480798fcd4047ee&amp;oe&#x3D;5F90BE5A alt="" height="200">
+  <img src=https:&#x2F;&#x2F;scontent-yyz1-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;121278292_2681478505502876_6504845727848454794_n.jpg?_nc_ht&#x3D;scontent-yyz1-1.cdninstagram.com&amp;_nc_cat&#x3D;108&amp;_nc_ohc&#x3D;9gVEEGIE2F4AX8OxQcY&amp;_nc_tp&#x3D;25&amp;oh&#x3D;921cb9de95f49840f7cb6f44cb206c03&amp;oe&#x3D;5FB69358 alt="" height="200">
+  <img src=https:&#x2F;&#x2F;scontent-yyz1-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;120497055_618778642142022_3907351443033520085_n.jpg?_nc_ht&#x3D;scontent-yyz1-1.cdninstagram.com&amp;_nc_cat&#x3D;106&amp;_nc_ohc&#x3D;GkFhig_uxxsAX_H0470&amp;_nc_tp&#x3D;25&amp;oh&#x3D;853e6aca34e3617461d62910e8fd0fcc&amp;oe&#x3D;5FB9B528 alt="" height="200">
 </p>
 
 <p>
@@ -69,7 +69,7 @@
   <small
     >This README file is generated every 3 hours.
     <br />
-    Last refresh: <strong>Monday, October 19, 9:04 PM EDT</strong>
+    Last refresh: <strong>Monday, October 19, 11:22 PM EDT</strong>
     <br />
   </small>
 </p>
