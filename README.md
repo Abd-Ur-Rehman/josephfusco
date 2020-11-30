@@ -9,29 +9,29 @@
 <h3 id="rochester_ny">📍 <a href="https://en.wikipedia.org/wiki/Rochester,_New_York">Rochester, New York</a></h3>
 
 <p>
-  <img src=https:&#x2F;&#x2F;scontent-yyz1-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;125367592_288639455783637_3268469673496042385_n.jpg?_nc_ht&#x3D;scontent-yyz1-1.cdninstagram.com&amp;_nc_cat&#x3D;109&amp;_nc_ohc&#x3D;t664upok-eYAX_T1VLC&amp;_nc_tp&#x3D;24&amp;oh&#x3D;26942c7c6352591e0d6afe98e49b4afc&amp;oe&#x3D;5FDDC777 alt="" height="200">
-  <img src=https:&#x2F;&#x2F;scontent-yyz1-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;125911423_474774760166909_3916217624326080367_n.jpg?_nc_ht&#x3D;scontent-yyz1-1.cdninstagram.com&amp;_nc_cat&#x3D;105&amp;_nc_ohc&#x3D;w-JI7E60gxkAX-uHbHR&amp;_nc_tp&#x3D;24&amp;oh&#x3D;dfb12b94403b1b21060d17cc8f3a8f3b&amp;oe&#x3D;5FDD5129 alt="" height="200">
-  <img src=https:&#x2F;&#x2F;scontent-yyz1-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;125080442_368930444332082_4841983960598871898_n.jpg?_nc_ht&#x3D;scontent-yyz1-1.cdninstagram.com&amp;_nc_cat&#x3D;102&amp;_nc_ohc&#x3D;sMOvAVAFevcAX8S8XT0&amp;_nc_tp&#x3D;24&amp;oh&#x3D;561a6085febfd85b5ac3bdb03b684f5b&amp;oe&#x3D;5FDCF8B8 alt="" height="200">
+  <img src=https:&#x2F;&#x2F;scontent-yyz1-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;e35&#x2F;s480x480&#x2F;128046131_1893196874153370_3734691744114947922_n.jpg?_nc_ht&#x3D;scontent-yyz1-1.cdninstagram.com&amp;_nc_cat&#x3D;106&amp;_nc_ohc&#x3D;pspS-mzg_DcAX_EWUMw&amp;tp&#x3D;1&amp;oh&#x3D;cb7bcdea023a4d7f19954e5b34c3a943&amp;oe&#x3D;5FECABF1&amp;ig_cache_key&#x3D;MjQ1MzQyNTkzMzkxMTE4NjcwMA%3D%3D.2 alt="" height="200">
+  <img src=https:&#x2F;&#x2F;scontent-yyz1-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;e35&#x2F;127989289_699091610714475_1608851633524150350_n.jpg?_nc_ht&#x3D;scontent-yyz1-1.cdninstagram.com&amp;_nc_cat&#x3D;103&amp;_nc_ohc&#x3D;GM5pbJD2IFkAX8ypBdu&amp;se&#x3D;7&amp;tp&#x3D;1&amp;oh&#x3D;26f5dda8cd7e7b68a8312a0f349b0f90&amp;oe&#x3D;5FEC960C&amp;ig_cache_key&#x3D;MjQ1MzE0MDc2Mzk3MzgwMjMxNA%3D%3D.2 alt="" height="200">
+  <img src=https:&#x2F;&#x2F;scontent-yyz1-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;e35&#x2F;127274370_422794699076860_5110749336309087423_n.jpg?_nc_ht&#x3D;scontent-yyz1-1.cdninstagram.com&amp;_nc_cat&#x3D;104&amp;_nc_ohc&#x3D;Xhc6_smNKIIAX9esmbD&amp;se&#x3D;7&amp;tp&#x3D;1&amp;oh&#x3D;d089b3f110ba6dfd966081e0a5fdd65b&amp;oe&#x3D;5FEFCD09&amp;ig_cache_key&#x3D;MjQ1MjQxNjcwNjM5MTQwMjY3Mw%3D%3D.2 alt="" height="200">
 </p>
 
 <p>
   Above are the last 3 pictures posted by <a href="https://www.instagram.com/rochesterny/">@rochesterny</a>.<br/>
-  Currently, the weather is: <strong>37℉, broken clouds</strong><br/>
-  Today, the sun rises at <strong>07:05 AM</strong> and sets at <strong>04:45 PM</strong>.
+  Currently, the weather is: <strong>43℉, moderate rain</strong><br/>
+  Today, the sun rises at <strong>07:22 AM</strong> and sets at <strong>04:36 PM</strong>.
 </p>
 
 <h3 id="tampa_fl">📍 <a href="https://en.wikipedia.org/wiki/Tampa,_Florida">Tampa, Florida</a></h3>
 
 <p>
-  <img src=https:&#x2F;&#x2F;scontent-yyz1-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;124029852_392547901868857_3759039134926506517_n.jpg?_nc_ht&#x3D;scontent-yyz1-1.cdninstagram.com&amp;_nc_cat&#x3D;101&amp;_nc_ohc&#x3D;C15EaV4YxMcAX_lQNTu&amp;_nc_tp&#x3D;24&amp;oh&#x3D;40bafce3fd2b1b107b0b30b73418aa31&amp;oe&#x3D;5FDAC402 alt="" height="200">
-  <img src=https:&#x2F;&#x2F;scontent-yyz1-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;123414487_135309028349537_2019632872423372252_n.jpg?_nc_ht&#x3D;scontent-yyz1-1.cdninstagram.com&amp;_nc_cat&#x3D;105&amp;_nc_ohc&#x3D;DN7iW1J7X-0AX-hRQDH&amp;_nc_tp&#x3D;24&amp;oh&#x3D;ad5845a74176eba4f1793f63f09b2a31&amp;oe&#x3D;5FDE4312 alt="" height="200">
-  <img src=https:&#x2F;&#x2F;scontent-yyz1-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;123145003_404579583906724_7527966786698241257_n.jpg?_nc_ht&#x3D;scontent-yyz1-1.cdninstagram.com&amp;_nc_cat&#x3D;104&amp;_nc_ohc&#x3D;vfv4KjmW18QAX_gpQ-l&amp;_nc_tp&#x3D;24&amp;oh&#x3D;c2ea2355c372d462bcabcd00369eb805&amp;oe&#x3D;5FDB118C alt="" height="200">
+  <img src=https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;e35&#x2F;128187256_151129080031621_7952041269915891053_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;101&amp;_nc_ohc&#x3D;pdRDdWs2aAkAX8uIuJI&amp;se&#x3D;7&amp;tp&#x3D;1&amp;oh&#x3D;e37fe39b746ac757151458ac281d9bb6&amp;oe&#x3D;5FEF6DD9&amp;ig_cache_key&#x3D;MjQ1MTg3OTQxMjYzMjA2MTg5Ng%3D%3D.2 alt="" height="200">
+  <img src=https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;e35&#x2F;127337613_416514439531644_500438160051428616_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;100&amp;_nc_ohc&#x3D;zvbgQdui1WgAX8-WpkX&amp;se&#x3D;7&amp;tp&#x3D;1&amp;oh&#x3D;2ede2193c383b75aad957d4002120dd4&amp;oe&#x3D;5FEE19BE&amp;ig_cache_key&#x3D;MjQ0ODk0ODUxODk2NjI2MDc3Ng%3D%3D.2 alt="" height="200">
+  <img src=https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;e35&#x2F;124029852_392547901868857_3759039134926506517_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;101&amp;_nc_ohc&#x3D;BI-Xt8x_MucAX9nuwnL&amp;se&#x3D;7&amp;tp&#x3D;1&amp;oh&#x3D;049773764a611247d56c155f55bbee53&amp;oe&#x3D;5FED526C&amp;ig_cache_key&#x3D;MjQzODY3MzYzMjE2MDE3ODg5Nw%3D%3D.2 alt="" height="200">
 </p>
 
 <p>
   Above are the last 3 pictures posted by <a href="https://www.instagram.com/visittampabay/">@visittampabay</a>.<br/>
-  Currently, the weather is: <strong>72℉, scattered clouds</strong><br/>
-  Today, the sun rises at <strong>06:52 AM</strong> and sets at <strong>05:37 PM</strong>.
+  Currently, the weather is: <strong>68℉, overcast clouds</strong><br/>
+  Today, the sun rises at <strong>07:03 AM</strong> and sets at <strong>05:34 PM</strong>.
 </p>
 
 <h2>Where to Find Me</h2>
@@ -69,7 +69,7 @@
   <small
     >This README file is generated every 3 hours.
     <br />
-    Last refresh: <strong>Monday, November 16, 7:44 PM EST</strong>
+    Last refresh: <strong>Monday, November 30, 10:22 AM EST</strong>
     <br />
   </small>
 </p>
