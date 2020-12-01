@@ -16,7 +16,7 @@
 
 <p>
   Above are the last 3 pictures posted by <a href="https://www.instagram.com/rochesterny/">@rochesterny</a>.<br/>
-  Currently, the weather is: <strong>40℉, light rain</strong><br/>
+  Currently, the weather is: <strong>37℉, light rain</strong><br/>
   Today, the sun rises at <strong>07:23 AM</strong> and sets at <strong>04:36 PM</strong>.
 </p>
 
@@ -30,7 +30,7 @@
 
 <p>
   Above are the last 3 pictures posted by <a href="https://www.instagram.com/visittampabay/">@visittampabay</a>.<br/>
-  Currently, the weather is: <strong>54℉, broken clouds</strong><br/>
+  Currently, the weather is: <strong>51℉, scattered clouds</strong><br/>
   Today, the sun rises at <strong>07:04 AM</strong> and sets at <strong>05:34 PM</strong>.
 </p>
 
@@ -69,7 +69,7 @@
   <small
     >This README file is generated every 3 hours.
     <br />
-    Last refresh: <strong>Tuesday, December 1, 4:19 AM EST</strong>
+    Last refresh: <strong>Tuesday, December 1, 7:26 AM EST</strong>
     <br />
   </small>
 </p>
