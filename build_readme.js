@@ -3,7 +3,6 @@ require('dotenv').config();
 const Mustache = require('mustache');
 const fetch = require('node-fetch');
 const fs = require('fs');
-const puppeteerService = require('./services/puppeteer.service');
 
 const MUSTACHE_MAIN_DIR = './main.mustache';
 
@@ -72,13 +71,6 @@ async function setWeatherInformation() {
     });
 }
 
-async function setInstagramPosts() {
-  const { rochester_ny, tampa_fl } = DATA.city;
-
-  rochester_ny.images = await puppeteerService.getLatestInstagramPostsFromAccount(rochester_ny.instagram, 3);
-  tampa_fl.images = await puppeteerService.getLatestInstagramPostsFromAccount(tampa_fl.instagram, 3);
-}
-
 async function generateReadMe() {
   await fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
     if (err) throw err;
@@ -94,19 +86,9 @@ async function action() {
   await setWeatherInformation();
 
   /**
-   * Get pictures
-   */
-  await setInstagramPosts();
-
-  /**
    * Generate README
    */
   await generateReadMe();
-
-  /**
-   * Shutdown puppeteer
-   */
-  await puppeteerService.close();
 
   console.log(DATA);
 }
